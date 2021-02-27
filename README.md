@@ -9,7 +9,8 @@ In case nobody is able to sell him the needed car in less than 30 min ( change t
 ## Conf.lua :
 
 ### Selling Point
- ```Config.Revente = { 
+ ```
+Config.Revente = { 
     x = -34.815,
     y = -1089.216,
     z = 26.422,
@@ -17,7 +18,8 @@ In case nobody is able to sell him the needed car in less than 30 min ( change t
 ```
 
 ### Ped Spawn Point
- ```Config.Simeon = { 
+ ```
+Config.Simeon = { 
     x = -26.411,
     y = -1089.618,
     z = 25.422,
@@ -26,16 +28,16 @@ In case nobody is able to sell him the needed car in less than 30 min ( change t
 ```
 
 ### Maximum damages
- ```Config.MaxCasse = 950 ```
+ `Config.MaxCasse = 950 `
 
 ### Time between sell and new mission
- ```Config.TempsEntre = 1000*300```
+ `Config.TempsEntre = 1000*300`
 
 ### Timer for new mission so if nobody find the car it's not blocked
- ```Config.TempsRecherche = 1000*1800```
+ `Config.TempsRecherche = 1000*1800`
 
 ### The number of car you have in Config.Liste
- ```Config.ListeMax = 27 ```
+ `Config.ListeMax = 27 `
 
 ### List of vehicle, their labels, and the price you sell them
  ```
