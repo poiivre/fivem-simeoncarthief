@@ -22,7 +22,7 @@ Config.TempsRecherche = 1000*1800           --Mettre le nb de seconde apres l'et
 -- 600 = 10 min
 
 
-Config.ListeMax = 29
+Config.ListeMax = 27
 Config.Liste = {
 
     { model = 'TURISMOR',       label= 'Turismo R',         prix = '1000' },
