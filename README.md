@@ -1,6 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D44EGNM)
-
-# seln_simeoncarthief ( ESX )
 
 # Add car thief missions at Simeon's dealership
 Simeon is looking for cars to sell to his clients, but no need for them to be new.
